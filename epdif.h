@@ -39,7 +39,7 @@
 //      Display       GPIO   NodeMCU pin
 
 
-https://github.com/Xinyuan-LilyGO/T5-Ink-Screen-Series
+//https://github.com/Xinyuan-LilyGO/T5-Ink-Screen-Series
 #define BUSY_PIN        4 // D1
 #define RST_PIN         16 // D2
 #define DC_PIN          17 // D3
