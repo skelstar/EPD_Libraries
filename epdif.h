@@ -37,10 +37,13 @@
 // Connect display GND to NodeMCU GND
 // Connect other pins as follows:
 //      Display       GPIO   NodeMCU pin
-#define BUSY_PIN        5 // D1
-#define RST_PIN         4 // D2
-#define DC_PIN          0 // D3
-#define CS_PIN          2 // D4
+
+
+https://github.com/Xinyuan-LilyGO/T5-Ink-Screen-Series
+#define BUSY_PIN        4 // D1
+#define RST_PIN         16 // D2
+#define DC_PIN          17 // D3
+#define CS_PIN          5 // D4
 
 
 class EpdIf {
